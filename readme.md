@@ -10,4 +10,7 @@
 
   ### Redes:
   [![Redes](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://drive.google.com/drive/folders/1IhBkUn1WIpOurZvqjga6EvhhUrQEj4hD?usp=drive_link)
+
+  ### Cloud AWS:
+  [![Cloud Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://drive.google.com/drive/folders/1jY7iDUrbTyAMNUMMy9UEg-UUSlnvSqpK?usp=drive_link)
 </div>
